@@ -1,0 +1,21 @@
+
+# Deep Learning and Speech Recognition
+torch
+openai-whisper
+
+# Hugging Face Fine-tuning
+transformers
+datasets
+accelerate
+evaluate
+
+# Audio Processing
+librosa
+soundfile
+
+# Data Processing
+numpy
+pandas
+
+# Visualization
+matplotlib
