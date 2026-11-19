@@ -139,7 +139,7 @@ git clone https://github.com/VrushaliAPoojary/swiss-german-asr.git
 cd swiss-german-asr
 ```
 
-Install dependencies using the requirements file (to be added).
+Install dependencies using the requirements file (pip install -r requirements.txt).
 
 Run the Python scripts from the project directory as required.
 
