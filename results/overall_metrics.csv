@@ -1,0 +1,5 @@
+Metric,Original Whisper Base,Fine-tuned Whisper Base
+WER (%),87.28023825535594,77.24084926505908
+CER (%),35.53907586993725,26.012549914432405
+Total inference time (seconds),193.65278619698438,223.9967875920156
+Average inference time (seconds/audio),0.19365278619698437,0.2239967875920156
